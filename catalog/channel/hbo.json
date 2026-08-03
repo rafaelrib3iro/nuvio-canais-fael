@@ -1,0 +1,101 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:hbo-1",
+      "type": "channel",
+      "name": "HBO 1",
+      "poster": "https://logos.imperioapps.top/HBO.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO.png",
+      "description": "Categoria: HBO\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-2",
+      "type": "channel",
+      "name": "HBO 2",
+      "poster": "https://logos.imperioapps.top/HBO_2.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_2.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-family",
+      "type": "channel",
+      "name": "HBO Family",
+      "poster": "https://logos.imperioapps.top/HBO_FAMILY.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_FAMILY.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-mundi",
+      "type": "channel",
+      "name": "HBO Mundi",
+      "poster": "https://logos.imperioapps.top/HBO_MUNDI.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_MUNDI.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-plus-plus",
+      "type": "channel",
+      "name": "HBO Plus Plus",
+      "poster": "https://logos.imperioapps.top/HBO_PLUS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_PLUS.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-pop",
+      "type": "channel",
+      "name": "HBO Pop",
+      "poster": "https://logos.imperioapps.top/HBO_POP.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_POP.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-signature",
+      "type": "channel",
+      "name": "HBO Signature",
+      "poster": "https://logos.imperioapps.top/HBO_SIGNATURE.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_SIGNATURE.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    },
+    {
+      "id": "cs:channel:hbo-xtreme",
+      "type": "channel",
+      "name": "HBO Xtreme",
+      "poster": "https://logos.imperioapps.top/HBO_XTREME.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HBO_XTREME.png",
+      "description": "Categoria: HBO\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "HBO"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

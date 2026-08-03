@@ -1,0 +1,113 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:globo-rs",
+      "type": "channel",
+      "name": "Globo RS",
+      "poster": "https://logos.imperioapps.top/globo.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/globo.png",
+      "description": "Categoria: Canais Globo Capitais\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Globo Capitais"
+      ]
+    },
+    {
+      "id": "cs:channel:sbt-rs",
+      "type": "channel",
+      "name": "SBT RS",
+      "poster": "https://logos.imperioapps.top/sbt.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/sbt.png",
+      "description": "Categoria: Canais SBT\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais SBT"
+      ]
+    },
+    {
+      "id": "cs:channel:band-rs",
+      "type": "channel",
+      "name": "Band RS",
+      "poster": "https://logos.imperioapps.top/BAND.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/BAND.png",
+      "description": "Categoria: Canais Band\nQualidades: FHD\n1 fonte(s)",
+      "genre": [
+        "Canais Band"
+      ]
+    },
+    {
+      "id": "cs:channel:record-rs",
+      "type": "channel",
+      "name": "Record RS",
+      "poster": "https://logos.imperioapps.top/RECORD.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/RECORD.png",
+      "description": "Categoria: Canais Record\nQualidades: FHD, HD\n2 fonte(s)",
+      "genre": [
+        "Canais Record"
+      ]
+    },
+    {
+      "id": "cs:channel:rede-tv",
+      "type": "channel",
+      "name": "Rede TV",
+      "poster": "https://logos.imperioapps.top/REDE_TV_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/REDE_TV_4K.png",
+      "description": "Categoria: Canais Abertos\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Abertos"
+      ]
+    },
+    {
+      "id": "cs:channel:tv-brasil",
+      "type": "channel",
+      "name": "TV Brasil",
+      "poster": "https://logos.imperioapps.top/TV_BRASIL.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TV_BRASIL.png",
+      "description": "Categoria: Canais Abertos\n1 fonte(s)",
+      "genre": [
+        "Canais Abertos"
+      ]
+    },
+    {
+      "id": "cs:channel:tv-senado",
+      "type": "channel",
+      "name": "TV Senado",
+      "poster": "https://logos.imperioapps.top/TV_SENADO.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TV_SENADO.png",
+      "description": "Categoria: Canais Abertos\n1 fonte(s)",
+      "genre": [
+        "Canais Abertos"
+      ]
+    },
+    {
+      "id": "cs:channel:tv-camara",
+      "type": "channel",
+      "name": "TV Camara",
+      "poster": "https://logos.imperioapps.top/TV_CAMARA.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TV_CAMARA.png",
+      "description": "Categoria: Canais Abertos\n1 fonte(s)",
+      "genre": [
+        "Canais Abertos"
+      ]
+    },
+    {
+      "id": "cs:channel:tv-justica",
+      "type": "channel",
+      "name": "TV Justiça",
+      "poster": "https://logos.imperioapps.top/TV_JUSTICA.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TV_JUSTICA.png",
+      "description": "Categoria: Canais Abertos\n1 fonte(s)",
+      "genre": [
+        "Canais Abertos"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

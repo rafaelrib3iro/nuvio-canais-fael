@@ -1,0 +1,53 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:telecine-action",
+      "type": "channel",
+      "name": "Telecine Action",
+      "poster": "https://logos.imperioapps.top/TELECINE_ACTION_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TELECINE_ACTION_4K.png",
+      "description": "Categoria: Canais Telecine\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Telecine"
+      ]
+    },
+    {
+      "id": "cs:channel:telecine-cult",
+      "type": "channel",
+      "name": "Telecine Cult",
+      "poster": "https://logos.imperioapps.top/TCCult.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TCCult.png",
+      "description": "Categoria: Canais Telecine\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Telecine"
+      ]
+    },
+    {
+      "id": "cs:channel:telecine-premium",
+      "type": "channel",
+      "name": "Telecine Premium",
+      "poster": "https://logos.imperioapps.top/TELECINE_PREMIUM_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TELECINE_PREMIUM_4K.png",
+      "description": "Categoria: Canais Telecine\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Telecine"
+      ]
+    },
+    {
+      "id": "cs:channel:telecine-touch",
+      "type": "channel",
+      "name": "Telecine Touch",
+      "poster": "https://logos.imperioapps.top/TCTouch.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TCTouch.png",
+      "description": "Categoria: Canais Telecine\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Telecine"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

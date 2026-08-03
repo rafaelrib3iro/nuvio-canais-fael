@@ -1,0 +1,101 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:gloob",
+      "type": "channel",
+      "name": "Gloob",
+      "poster": "https://logos.imperioapps.top/GLOOB.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/GLOOB.png",
+      "description": "Categoria: Canais Infantil\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:gloobinho",
+      "type": "channel",
+      "name": "Gloobinho",
+      "poster": "https://logos.imperioapps.top/GLOBINHO.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/GLOBINHO.png",
+      "description": "Categoria: Canais Infantil\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:cartoonito",
+      "type": "channel",
+      "name": "Cartoonito",
+      "poster": "https://www.fontedecanais.tv/logos/canais/cartoonito.png",
+      "posterShape": "square",
+      "background": "https://www.fontedecanais.tv/logos/canais/cartoonito.png",
+      "description": "Categoria: Canais Infantil\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:discovery-kids",
+      "type": "channel",
+      "name": "Discovery Kids",
+      "poster": "https://logos.imperioapps.top/DISCOVERY_KIDS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/DISCOVERY_KIDS.png",
+      "description": "Categoria: Canais Discovery\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Discovery"
+      ]
+    },
+    {
+      "id": "cs:channel:box-kids-tv",
+      "type": "channel",
+      "name": "Box Kids TV",
+      "poster": "https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png",
+      "posterShape": "square",
+      "background": "https://boxbrazil.tv.br/assets/images/logos/box-kids-logo.png",
+      "description": "Categoria: Canais Infantil\n1 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:kids-mais",
+      "type": "channel",
+      "name": "Kids Mais",
+      "poster": "https://i.imgur.com/86cfDFx.png",
+      "posterShape": "square",
+      "background": "https://i.imgur.com/86cfDFx.png",
+      "description": "Categoria: Canais Infantil\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:tv-ra-tim-bum",
+      "type": "channel",
+      "name": "TV Ra Tim Bum",
+      "poster": "https://logos.imperioapps.top/TV_RA_TIM_BUM.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TV_RA_TIM_BUM.png",
+      "description": "Categoria: Canais Infantil\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    },
+    {
+      "id": "cs:channel:dumdum",
+      "type": "channel",
+      "name": "DumDum",
+      "poster": "https://logos.imperioapps.top/DUMDUM.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/DUMDUM.png",
+      "description": "Categoria: Canais Infantil\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Infantil"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

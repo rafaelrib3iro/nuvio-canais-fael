@@ -1,0 +1,269 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:sony",
+      "type": "channel",
+      "name": "Sony",
+      "poster": "https://logos.imperioapps.top/SONY.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/SONY.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:sony-movies",
+      "type": "channel",
+      "name": "Sony Movies",
+      "poster": "http://97j91.xyz/images/sonymovies.png",
+      "posterShape": "square",
+      "background": "http://97j91.xyz/images/sonymovies.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:apple-tv-01",
+      "type": "channel",
+      "name": "Apple TV 01",
+      "poster": "https://logos.imperioapps.top/APPLETV+.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/APPLETV+.png",
+      "description": "Categoria: Canais Esportes\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:sony-one-classics",
+      "type": "channel",
+      "name": "Sony One Classics",
+      "poster": "https://logos.imperioapps.top/SONY.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/SONY.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:sony-one-emocoes",
+      "type": "channel",
+      "name": "Sony One Emoções",
+      "poster": "http://97j91.xyz/images/sonyone.png",
+      "posterShape": "square",
+      "background": "http://97j91.xyz/images/sonyone.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:studio-universal",
+      "type": "channel",
+      "name": "Studio Universal",
+      "poster": "https://logos.imperioapps.top/STUDIO_UNIVERSAL.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/STUDIO_UNIVERSAL.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:tcm",
+      "type": "channel",
+      "name": "TCM",
+      "poster": "https://logos.imperioapps.top/TCM.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TCM.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:tnt-novelas",
+      "type": "channel",
+      "name": "TNT Novelas",
+      "poster": "https://logos.imperioapps.top/TNT_NOVELAS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TNT_NOVELAS.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:warner-channel",
+      "type": "channel",
+      "name": "Warner Channel",
+      "poster": "https://logos.imperioapps.top/WARNER_CHANNEL.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/WARNER_CHANNEL.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:universal-tv",
+      "type": "channel",
+      "name": "Universal TV",
+      "poster": "https://logos.imperioapps.top/UNIVERSAL.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/UNIVERSAL.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:megapix",
+      "type": "channel",
+      "name": "Megapix",
+      "poster": "https://logos.imperioapps.top/MEGAPIX_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/MEGAPIX_4K.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:dreamworks",
+      "type": "channel",
+      "name": "DreamWorks",
+      "poster": "http://logos.imperioapps.top/DREAMWORKS.png",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/DREAMWORKS.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:universal-premiere",
+      "type": "channel",
+      "name": "Universal Premiere",
+      "poster": "https://i.imgur.com/sfPwXQg.png",
+      "posterShape": "square",
+      "background": "https://i.imgur.com/sfPwXQg.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:playpoca-series",
+      "type": "channel",
+      "name": "Playpoca Series",
+      "poster": "https://logos.imperioapps.top/PLAYPOCA.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/PLAYPOCA.png",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-brasil",
+      "type": "channel",
+      "name": "Runtime Brasil",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-cine-espanto",
+      "type": "channel",
+      "name": "Runtime Cine Espanto",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-fami-lia",
+      "type": "channel",
+      "name": "Runtime Famí­lia",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-movie-sphere",
+      "type": "channel",
+      "name": "Runtime Movie Sphere",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-tg-brasil",
+      "type": "channel",
+      "name": "Runtime TG Brasil",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:runtime-tv-filmes",
+      "type": "channel",
+      "name": "Runtime TV & Filmes",
+      "poster": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "posterShape": "square",
+      "background": "http://logos.imperioapps.top/RUNTIME.jpeg",
+      "description": "Categoria: Canais Filmes E Séries\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:film-arts",
+      "type": "channel",
+      "name": "Film & Arts",
+      "poster": "https://logos.imperioapps.top/FILM&ART.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/FILM&ART.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD\n2 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:mytime-movie-network-brazil",
+      "type": "channel",
+      "name": "MyTime Movie Network Brazil",
+      "poster": "https://i.imgur.com/zE64Hwc.png",
+      "posterShape": "square",
+      "background": "https://i.imgur.com/zE64Hwc.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

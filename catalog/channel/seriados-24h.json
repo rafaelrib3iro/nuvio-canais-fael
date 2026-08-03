@@ -1,0 +1,845 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:friends-s01",
+      "type": "channel",
+      "name": "Friends S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s02",
+      "type": "channel",
+      "name": "Friends S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s03",
+      "type": "channel",
+      "name": "Friends S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s04",
+      "type": "channel",
+      "name": "Friends S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s05",
+      "type": "channel",
+      "name": "Friends S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s06",
+      "type": "channel",
+      "name": "Friends S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s07",
+      "type": "channel",
+      "name": "Friends S07",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:friends-s08",
+      "type": "channel",
+      "name": "Friends S08",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s01",
+      "type": "channel",
+      "name": "Sobrenatural S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s02",
+      "type": "channel",
+      "name": "Sobrenatural S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s03",
+      "type": "channel",
+      "name": "Sobrenatural S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s04",
+      "type": "channel",
+      "name": "Sobrenatural S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s05",
+      "type": "channel",
+      "name": "Sobrenatural S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s06",
+      "type": "channel",
+      "name": "Sobrenatural S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s07",
+      "type": "channel",
+      "name": "Sobrenatural S07",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s08",
+      "type": "channel",
+      "name": "Sobrenatural S08",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s09",
+      "type": "channel",
+      "name": "Sobrenatural S09",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s10",
+      "type": "channel",
+      "name": "Sobrenatural S10",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s11",
+      "type": "channel",
+      "name": "Sobrenatural S11",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s12",
+      "type": "channel",
+      "name": "Sobrenatural S12",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s13",
+      "type": "channel",
+      "name": "Sobrenatural S13",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s14",
+      "type": "channel",
+      "name": "Sobrenatural S14",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:sobrenatural-s15",
+      "type": "channel",
+      "name": "Sobrenatural S15",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:todo-mundo-odeia-o-chris-s01",
+      "type": "channel",
+      "name": "Todo Mundo Odeia O Chris S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:todo-mundo-odeia-o-chris-s02",
+      "type": "channel",
+      "name": "Todo Mundo Odeia O Chris S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:todo-mundo-odeia-o-chris-s03",
+      "type": "channel",
+      "name": "Todo Mundo Odeia O Chris S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:todo-mundo-odeia-o-chris-s04",
+      "type": "channel",
+      "name": "Todo Mundo Odeia O Chris S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s01",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s02",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s03",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s04",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s05",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:um-maluco-no-pedaco-s06",
+      "type": "channel",
+      "name": "Um Maluco no Pedaço S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s06",
+      "type": "channel",
+      "name": "Dois Homens e Meio S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s07",
+      "type": "channel",
+      "name": "Dois Homens e Meio S07",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s08",
+      "type": "channel",
+      "name": "Dois Homens e Meio S08",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s09",
+      "type": "channel",
+      "name": "Dois Homens e Meio S09",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s10",
+      "type": "channel",
+      "name": "Dois Homens e Meio S10",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s11",
+      "type": "channel",
+      "name": "Dois Homens e Meio S11",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:dois-homens-e-meio-s12",
+      "type": "channel",
+      "name": "Dois Homens e Meio S12",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s01",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s02",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s03",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s04",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s05",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-nova-geracao-s06",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo - Nova Geração S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:escolinha-do-professor-raimundo-s01",
+      "type": "channel",
+      "name": "Escolinha do Professor Raimundo S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:eu-a-patroa-e-as-criancas-s01",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:eu-a-patroa-e-as-criancas-s02",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:eu-a-patroa-e-as-criancas-s03",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:eu-a-patroa-e-as-criancas-s04",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:eu-a-patroa-e-as-criancas-s05",
+      "type": "channel",
+      "name": "Eu a Patroa e as Crianças S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s01",
+      "type": "channel",
+      "name": "Masterchef S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s03",
+      "type": "channel",
+      "name": "Masterchef S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s04",
+      "type": "channel",
+      "name": "Masterchef S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s05",
+      "type": "channel",
+      "name": "Masterchef S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s06",
+      "type": "channel",
+      "name": "MasterChef S06",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s07",
+      "type": "channel",
+      "name": "MasterChef S07",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s08",
+      "type": "channel",
+      "name": "MasterChef S08",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s09",
+      "type": "channel",
+      "name": "MasterChef S09",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s10",
+      "type": "channel",
+      "name": "MasterChef S10",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s11",
+      "type": "channel",
+      "name": "MasterChef S11",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:masterchef-s12",
+      "type": "channel",
+      "name": "MasterChef S12",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:pesadelo-na-cozinha-s01",
+      "type": "channel",
+      "name": "Pesadelo na Cozinha S01",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:pesadelo-na-cozinha-s02",
+      "type": "channel",
+      "name": "Pesadelo na Cozinha S02",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:pesadelo-na-cozinha-s03",
+      "type": "channel",
+      "name": "Pesadelo na Cozinha S03",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:pesadelo-na-cozinha-s04",
+      "type": "channel",
+      "name": "Pesadelo na Cozinha S04",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:pesadelo-na-cozinha-s05",
+      "type": "channel",
+      "name": "Pesadelo na Cozinha S05",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:mazzaropi",
+      "type": "channel",
+      "name": "Mazzaropi",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    },
+    {
+      "id": "cs:channel:porta-dos-fundos-no-mercado-play",
+      "type": "channel",
+      "name": "Porta dos Fundos No Mercado Play",
+      "poster": "https://logos.imperioapps.top/24H.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/24H.png",
+      "description": "Categoria: Canais 24h Seriados\n1 fonte(s)",
+      "genre": [
+        "Canais 24h Seriados"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

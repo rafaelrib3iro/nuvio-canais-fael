@@ -1,0 +1,161 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:multishow",
+      "type": "channel",
+      "name": "Multishow",
+      "poster": "https://logos.imperioapps.top/MULTISHOW_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/MULTISHOW_4K.png",
+      "description": "Categoria: Canais Variedades\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:ge-tv",
+      "type": "channel",
+      "name": "GE TV",
+      "poster": "https://i.imgur.com/kysVRQn.png",
+      "posterShape": "square",
+      "background": "https://i.imgur.com/kysVRQn.png",
+      "description": "Categoria: Canais Esportes\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:gnt",
+      "type": "channel",
+      "name": "GNT",
+      "poster": "https://logos.imperioapps.top/GNT_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/GNT_4K.png",
+      "description": "Categoria: Canais Variedades\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:tlc",
+      "type": "channel",
+      "name": "TLC",
+      "poster": "https://logos.imperioapps.top/TLC.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TLC.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:a-e",
+      "type": "channel",
+      "name": "A&E",
+      "poster": "https://logos.imperioapps.top/A&E.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/A&E.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:tnt",
+      "type": "channel",
+      "name": "TNT",
+      "poster": "https://logos.imperioapps.top/TNT_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/TNT_4K.png",
+      "description": "Categoria: Canais Filmes E Séries\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Filmes E Séries"
+      ]
+    },
+    {
+      "id": "cs:channel:bis",
+      "type": "channel",
+      "name": "BIS",
+      "poster": "https://logos.imperioapps.top/BIS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/BIS.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:e",
+      "type": "channel",
+      "name": "E!",
+      "poster": "https://logos.imperioapps.top/E.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/E.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:fashion-tv",
+      "type": "channel",
+      "name": "Fashion TV",
+      "poster": "https://logos.imperioapps.top/FASHIONTV.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/FASHIONTV.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD\n1 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:canal-uol",
+      "type": "channel",
+      "name": "Canal UOL",
+      "poster": "http://www.fontedecanais.tv/logos/canais/canaluol.png",
+      "posterShape": "square",
+      "background": "http://www.fontedecanais.tv/logos/canais/canaluol.png",
+      "description": "Categoria: Canais Variedades\n1 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:food-network",
+      "type": "channel",
+      "name": "Food Network",
+      "poster": "https://logos.imperioapps.top/FOOD_NETWORK.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/FOOD_NETWORK.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:sabor-arte",
+      "type": "channel",
+      "name": "Sabor & Arte",
+      "poster": "https://logos.imperioapps.top/SABOR_E_ARTE.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/SABOR_E_ARTE.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    },
+    {
+      "id": "cs:channel:off",
+      "type": "channel",
+      "name": "OFF",
+      "poster": "https://logos.imperioapps.top/OFF.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/OFF.png",
+      "description": "Categoria: Canais Variedades\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Variedades"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

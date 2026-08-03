@@ -1,0 +1,65 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:animal-planet",
+      "type": "channel",
+      "name": "Animal Planet",
+      "poster": "https://logos.imperioapps.top/ANIMAL_PLANET_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/ANIMAL_PLANET_4K.png",
+      "description": "Categoria: Canais Documentários\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Documentários"
+      ]
+    },
+    {
+      "id": "cs:channel:h2",
+      "type": "channel",
+      "name": "H2",
+      "poster": "https://logos.imperioapps.top/H2.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/H2.png",
+      "description": "Categoria: Canais Documentários\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Documentários"
+      ]
+    },
+    {
+      "id": "cs:channel:love-nature",
+      "type": "channel",
+      "name": "Love Nature",
+      "poster": "https://logos.imperioapps.top/LOVENATURE.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/LOVENATURE.png",
+      "description": "Categoria: Canais Documentários\nQualidades: 4K\n2 fonte(s)",
+      "genre": [
+        "Canais Documentários"
+      ]
+    },
+    {
+      "id": "cs:channel:the-history",
+      "type": "channel",
+      "name": "The History",
+      "poster": "https://logos.imperioapps.top/HISTORY.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/HISTORY.png",
+      "description": "Categoria: Canais Documentários\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Documentários"
+      ]
+    },
+    {
+      "id": "cs:channel:discovery-science",
+      "type": "channel",
+      "name": "Discovery Science",
+      "poster": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png",
+      "description": "Categoria: Canais Discovery\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Discovery"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

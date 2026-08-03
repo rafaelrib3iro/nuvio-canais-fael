@@ -1,0 +1,113 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:caze-tv-01",
+      "type": "channel",
+      "name": "Cazé TV 01",
+      "poster": "https://logos.imperioapps.top/CAZE_TV.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/CAZE_TV.png",
+      "description": "Categoria: Canais Esportes\n2 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:sportv",
+      "type": "channel",
+      "name": "SporTV",
+      "poster": "https://logos.imperioapps.top/SPORTV_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/SPORTV_4K.png",
+      "description": "Categoria: Canais Sportv\nQualidades: 4K, FHD, HD, SD\n7 fonte(s)",
+      "genre": [
+        "Canais Sportv"
+      ]
+    },
+    {
+      "id": "cs:channel:band-sports",
+      "type": "channel",
+      "name": "Band Sports",
+      "poster": "https://logos.imperioapps.top/BAND_SPORTS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/BAND_SPORTS.png",
+      "description": "Categoria: Canais Esportes\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:combate",
+      "type": "channel",
+      "name": "Combate",
+      "poster": "https://logos.imperioapps.top/COMBATE_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/COMBATE_4K.png",
+      "description": "Categoria: Canais UFC Combate\nQualidades: 4K, FHD, HD, SD\n7 fonte(s)",
+      "genre": [
+        "Canais UFC Combate"
+      ]
+    },
+    {
+      "id": "cs:channel:ufc-fight-pass-01",
+      "type": "channel",
+      "name": "UFC Fight Pass 01",
+      "poster": "https://logos.imperioapps.top/UFC_FIGHT_PASS.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/UFC_FIGHT_PASS.png",
+      "description": "Categoria: Canais UFC Combate\n2 fonte(s)",
+      "genre": [
+        "Canais UFC Combate"
+      ]
+    },
+    {
+      "id": "cs:channel:nba-brasil",
+      "type": "channel",
+      "name": "NBA Brasil",
+      "poster": "https://lnb.com.br/wp-content/uploads/2013/03/NBA-315x135.png",
+      "posterShape": "square",
+      "background": "https://lnb.com.br/wp-content/uploads/2013/03/NBA-315x135.png",
+      "description": "Categoria: Canais Esportes\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:nfl-tv",
+      "type": "channel",
+      "name": "NFL TV",
+      "poster": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "posterShape": "square",
+      "background": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "description": "Categoria: Canais Esportes\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:redbull-tv",
+      "type": "channel",
+      "name": "Redbull TV",
+      "poster": "http://32q0d.xyz/images/redbull.png",
+      "posterShape": "square",
+      "background": "http://32q0d.xyz/images/redbull.png",
+      "description": "Categoria: Canais Esportes\nQualidades: HD\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    },
+    {
+      "id": "cs:channel:globoplay-plus-ge-futebol-1",
+      "type": "channel",
+      "name": "GloboPlay Plus|GE Futebol 1",
+      "poster": "https://logos.imperioapps.top/GE.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/GE.png",
+      "description": "Categoria: Canais Esportes\n1 fonte(s)",
+      "genre": [
+        "Canais Esportes"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

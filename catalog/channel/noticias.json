@@ -1,0 +1,53 @@
+{
+  "metas": [
+    {
+      "id": "cs:channel:cnn-brasil",
+      "type": "channel",
+      "name": "CNN Brasil",
+      "poster": "https://logos.imperioapps.top/CNN_BRASIL_4K.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/CNN_BRASIL_4K.png",
+      "description": "Categoria: Canais Notícias\nQualidades: 4K, FHD, HD, SD\n4 fonte(s)",
+      "genre": [
+        "Canais Notícias"
+      ]
+    },
+    {
+      "id": "cs:channel:cnn-internacional",
+      "type": "channel",
+      "name": "CNN Internacional",
+      "poster": "https://logos.imperioapps.top/CNN_INTERNACIONAL.png",
+      "posterShape": "square",
+      "background": "https://logos.imperioapps.top/CNN_INTERNACIONAL.png",
+      "description": "Categoria: Canais Notícias\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Notícias"
+      ]
+    },
+    {
+      "id": "cs:channel:sbt-news",
+      "type": "channel",
+      "name": "SBT News",
+      "poster": "http://www.fontedecanais.tv/logos/canais/sbtnews.png",
+      "posterShape": "square",
+      "background": "http://www.fontedecanais.tv/logos/canais/sbtnews.png",
+      "description": "Categoria: Canais Notícias\nQualidades: FHD, HD, SD\n3 fonte(s)",
+      "genre": [
+        "Canais Notícias"
+      ]
+    },
+    {
+      "id": "cs:channel:bloomberg",
+      "type": "channel",
+      "name": "Bloomberg",
+      "poster": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjE5X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1753449184017",
+      "posterShape": "square",
+      "background": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjE5X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1753449184017",
+      "description": "Categoria: Canais Notícias\n1 fonte(s)",
+      "genre": [
+        "Canais Notícias"
+      ]
+    }
+  ],
+  "cacheMaxAge": 0
+}

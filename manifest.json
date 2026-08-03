@@ -1,0 +1,77 @@
+{
+  "id": "nuvio-fael-canais-personalizados",
+  "version": "1.0.0",
+  "name": "Canais Personalizados - Fael",
+  "description": "Addon de canais curados para o perfil Fael.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "channel"
+  ],
+  "idPrefixes": [
+    "cs:channel:"
+  ],
+  "catalogs": [
+    {
+      "id": "tv-aberta",
+      "type": "channel",
+      "name": "TV Aberta"
+    },
+    {
+      "id": "discovery",
+      "type": "channel",
+      "name": "Discovery"
+    },
+    {
+      "id": "telecine",
+      "type": "channel",
+      "name": "Telecine"
+    },
+    {
+      "id": "noticias",
+      "type": "channel",
+      "name": "Notícias"
+    },
+    {
+      "id": "esportes",
+      "type": "channel",
+      "name": "Esportes"
+    },
+    {
+      "id": "variedades",
+      "type": "channel",
+      "name": "Variedades"
+    },
+    {
+      "id": "hbo",
+      "type": "channel",
+      "name": "HBO"
+    },
+    {
+      "id": "documentarios",
+      "type": "channel",
+      "name": "Documentários"
+    },
+    {
+      "id": "filmes-e-series",
+      "type": "channel",
+      "name": "Filmes e Séries"
+    },
+    {
+      "id": "infantil",
+      "type": "channel",
+      "name": "Infantil"
+    },
+    {
+      "id": "animes-e-desenhos",
+      "type": "channel",
+      "name": "Animes e Desenhos"
+    },
+    {
+      "id": "seriados-24h",
+      "type": "channel",
+      "name": "Seriados 24h"
+    }
+  ]
+}
